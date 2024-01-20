@@ -24,7 +24,7 @@ ul {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -34,7 +34,7 @@ ul {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -108,7 +108,7 @@ address {
 
 .hero-btn :hover,
 .hero-btn :focus {
-    background: #404BBF;
+    background-color: #404BBF;
 }
 
 /*======================*/
@@ -128,6 +128,7 @@ address {
     color: #2E2F42;
     font-size: 20px;
     line-height: 1.20;
+    font-weight: 500;
     letter-spacing: 0.02em;
 }
 
@@ -173,7 +174,7 @@ footer {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -183,7 +184,7 @@ footer {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
